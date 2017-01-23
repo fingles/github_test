@@ -1,3 +1,3 @@
 0.upto(9) do
-puts "Grrrrrr"
+puts "Hello world, Grrrrrr!"
 end
